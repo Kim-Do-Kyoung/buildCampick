@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cdae217.css",
-    "main.js": "/static/js/main.d94557ee.js",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "static/media/angle-right-solid.svg": "/static/media/angle-right-solid.3efd9ded5834bc1178d385aa1c4f276c.svg",
-    "static/media/angle-left-solid.svg": "/static/media/angle-left-solid.07823b81d7b3f5ae2b7d57094b674399.svg",
-    "main.5cdae217.css.map": "/static/css/main.5cdae217.css.map",
-    "main.d94557ee.js.map": "/static/js/main.d94557ee.js.map"
+    "main.css": "/buildCampick/static/css/main.80f98bda.css",
+    "main.js": "/buildCampick/static/js/main.9416dc61.js",
+    "static/media/slick.svg": "/buildCampick/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/buildCampick/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/buildCampick/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/buildCampick/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/buildCampick/index.html",
+    "static/media/angle-right-solid.svg": "/buildCampick/static/media/angle-right-solid.3efd9ded5834bc1178d385aa1c4f276c.svg",
+    "static/media/angle-left-solid.svg": "/buildCampick/static/media/angle-left-solid.07823b81d7b3f5ae2b7d57094b674399.svg",
+    "main.80f98bda.css.map": "/buildCampick/static/css/main.80f98bda.css.map",
+    "main.9416dc61.js.map": "/buildCampick/static/js/main.9416dc61.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cdae217.css",
-    "static/js/main.d94557ee.js"
+    "static/css/main.80f98bda.css",
+    "static/js/main.9416dc61.js"
   ]
 }
