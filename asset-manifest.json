@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/buildCampick/static/css/main.80f98bda.css",
-    "main.js": "/buildCampick/static/js/main.9416dc61.js",
+    "main.js": "/buildCampick/static/js/main.740b477f.js",
     "static/media/slick.svg": "/buildCampick/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/buildCampick/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/buildCampick/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -10,10 +10,10 @@
     "static/media/angle-right-solid.svg": "/buildCampick/static/media/angle-right-solid.3efd9ded5834bc1178d385aa1c4f276c.svg",
     "static/media/angle-left-solid.svg": "/buildCampick/static/media/angle-left-solid.07823b81d7b3f5ae2b7d57094b674399.svg",
     "main.80f98bda.css.map": "/buildCampick/static/css/main.80f98bda.css.map",
-    "main.9416dc61.js.map": "/buildCampick/static/js/main.9416dc61.js.map"
+    "main.740b477f.js.map": "/buildCampick/static/js/main.740b477f.js.map"
   },
   "entrypoints": [
     "static/css/main.80f98bda.css",
-    "static/js/main.9416dc61.js"
+    "static/js/main.740b477f.js"
   ]
 }
